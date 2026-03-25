@@ -1,26 +1,4 @@
-👋 Hi there! I'm Farhan Ansari 
-💻 I'm a passionate developer who loves building things with code and solving real-world problems. I enjoy working with modern technologies and continuously learning new skills to improve my craft.
 
-🚀 Currently, I'm focusing on:
-
-Building scalable web applications
-Improving my problem-solving skills
-Exploring new tools and frameworks
-
-🛠️ Tech Stack:
-
-Languages: [e.g., JavaScript, HTML, CSS]
-Frameworks: [e.g., React, Node.js, Django]
-Tools: Git, GitHub, VS Code
-
-📚 I'm always open to learning, collaboration, and exciting opportunities.
-
-📫 How to reach me:
-
-Email: thecodingninjaa1@gmail.com
-Contact: +91 80906 28203
-
-⚡ Fun fact: I love turning ideas into reality through code!
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61579723086464) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/farhaanansari.i/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/farhaanans88283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thecodingninjaa1@gmail.com) 
 
