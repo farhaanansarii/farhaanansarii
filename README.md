@@ -1,3 +1,16 @@
+💫 Hi 👋, I'm Farhan Ansari 
+Aspiring Web Developer 🌱 | Turning ideas into projects
+
+🔭 I’m currently working on: Enter your project info here
+🌱 I’m currently learning: Enter your tech here
+👯 I’m looking to collaborate on: Enter your project name and info
+🤔 I’m looking for help with: Your project here
+💬 Ask me about: Collaboration, Tech Support
+📫 How to reach me: Enter your email here
+😄 Pronouns: Imran Sir
+⚡ Fun fact: I Love Tech and Tech Love Me
+
+Email Me 👉 ✉️ thecodingninjaa1@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61579723086464) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/farhaanansari.i/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/farhaanans88283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thecodingninjaa1@gmail.com) 
